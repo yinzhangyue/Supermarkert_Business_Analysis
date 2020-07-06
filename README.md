@@ -1,3 +1,3 @@
 # Supermarket Business Analysis
- This is  Business Analysis about three supermarkets in Vietnam.
+ This is a Business Analysis about three supermarkets in Vietnam.
 
